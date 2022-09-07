@@ -24,4 +24,4 @@ class Account{
             Cuenta - RetirarCantidad;
             } 
         };
-}
+};

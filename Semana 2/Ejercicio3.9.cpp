@@ -6,9 +6,9 @@ using namespace std;
 int main(){
 Account cuenta1{1000};
 
-cout << "introduzca el monto a retirar: " << endl;
-cin >> Account.retiro;
+cout << "introduzca la cuenta: " << endl;
+cin >>  ;
 
-cout <<  Account << endl;
+cout <<  cuenta1.Cuenta1() << endl;
 
 }  

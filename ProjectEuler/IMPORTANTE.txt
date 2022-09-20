@@ -1,0 +1,8 @@
+La gran mayoría de los ejercicios son sacados de esta fuente:
+
+https://github.com/stbrumme/euler
+
+Una disculpa de antemano por no poder completar la mayoría de los ejercicios por mi cuenta, no tuve el tiempo suficiente para poder completarlos y 
+tuve que requerir a este repositorio para poder completar la tarea.
+Espero que pueda dejarme un trabajo aparte para poder mejorar esta nota.
+Muchas gracias y que tenga un buen día.

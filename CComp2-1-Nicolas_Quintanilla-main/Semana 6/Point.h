@@ -9,14 +9,14 @@ class Point{
             x = _x;
         }
 
-        int getX() const{
+        int getX(){
             return x;
         }
         void setY(int _y){
             y = _y;
 
         }
-        int getY() const{
+        int getY(){
             return y;
         }
         void print() const{
